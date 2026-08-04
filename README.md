@@ -28,6 +28,8 @@ A machine learning pipeline designed to classify breast mass tumors as malignant
 
 ## Quickstart & Setup
 
+## Quickstart & Setup
+
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/tahahaxan01-ai/breast-cancer-prediction-ml.git](https://github.com/tahahaxan01-ai/breast-cancer-prediction-ml.git)
